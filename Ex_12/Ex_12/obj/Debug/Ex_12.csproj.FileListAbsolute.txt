@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Ex_12\Ex_12\bin\Debug\Ex_12.exe.config
+C:\Users\vitor\source\repos\Ex_12\Ex_12\bin\Debug\Ex_12.exe
+C:\Users\vitor\source\repos\Ex_12\Ex_12\bin\Debug\Ex_12.pdb
+C:\Users\vitor\source\repos\Ex_12\Ex_12\obj\Debug\Ex_12.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Ex_12\Ex_12\obj\Debug\Ex_12.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Ex_12\Ex_12\obj\Debug\Ex_12.exe
+C:\Users\vitor\source\repos\Ex_12\Ex_12\obj\Debug\Ex_12.pdb

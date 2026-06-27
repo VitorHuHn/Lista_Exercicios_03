@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Ex_13\Ex_13\bin\Debug\Ex_13.exe.config
+C:\Users\vitor\source\repos\Ex_13\Ex_13\bin\Debug\Ex_13.exe
+C:\Users\vitor\source\repos\Ex_13\Ex_13\bin\Debug\Ex_13.pdb
+C:\Users\vitor\source\repos\Ex_13\Ex_13\obj\Debug\Ex_13.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Ex_13\Ex_13\obj\Debug\Ex_13.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Ex_13\Ex_13\obj\Debug\Ex_13.exe
+C:\Users\vitor\source\repos\Ex_13\Ex_13\obj\Debug\Ex_13.pdb

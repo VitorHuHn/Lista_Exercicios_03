@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Ex_5\Ex_5\bin\Debug\Ex_5.exe.config
+C:\Users\vitor\source\repos\Ex_5\Ex_5\bin\Debug\Ex_5.exe
+C:\Users\vitor\source\repos\Ex_5\Ex_5\bin\Debug\Ex_5.pdb
+C:\Users\vitor\source\repos\Ex_5\Ex_5\obj\Debug\Ex_5.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Ex_5\Ex_5\obj\Debug\Ex_5.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Ex_5\Ex_5\obj\Debug\Ex_5.exe
+C:\Users\vitor\source\repos\Ex_5\Ex_5\obj\Debug\Ex_5.pdb
